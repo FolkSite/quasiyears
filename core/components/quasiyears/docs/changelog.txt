@@ -1,0 +1,5 @@
+Changelog for quasiYears.
+
+quasiYears 1.0.0 pl
+==============
+* First commit.
