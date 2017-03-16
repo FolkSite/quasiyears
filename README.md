@@ -9,3 +9,9 @@ quasiYears is a MODX Revolution Extra that inserts the current year.
 [[!quasiYears? &current=\`1\`]]
 ### Result ###
 2017
+## Options ##
+| Параметр | Описание |
+|---|---|
+| past | Год запуска сайта (любая строка) |
+| current | Выводить ли текущий год (1 — выводить) |
+| separator | Разделитель года запуска и текущего года (любая строка) |
